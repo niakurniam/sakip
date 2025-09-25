@@ -7,7 +7,7 @@ import ContactUs from "./components/ContactUs";
 import TautanEksternal from "./components/TautanEksternal";
 import DokumenAkuntabilitas from "./components/DokumenAkuntabilitas";
 import DasarHukum from "./components/DasarHukum";
-import VideoSambutan from "./components/VideoSambutan";
+// import VideoSambutan from "./components/VideoSambutan";
 import RencanaIndukPengembangan from "./pages/RencanaIndukPengembangan";
 import Renstra from "./pages/Renstra";
 import PerjanjianKinerja from "./pages/PerjanjianKinerja";
@@ -21,7 +21,7 @@ const MainPage = () => (
   <>
     <Hero />
     <Greeting />
-    <VideoSambutan />
+    {/* <VideoSambutan /> */}
     <DasarHukum />
     <DokumenAkuntabilitas />
     <TautanEksternal />
