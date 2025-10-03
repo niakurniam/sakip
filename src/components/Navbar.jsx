@@ -48,30 +48,55 @@ const NAV_ITEMS = [
     path: "/pk",
     dropdown: [
       {
+        label: "PK 2025",
+        to: "/pdf-viewer?file=PK_PPNS_2025.pdf",
+        link: "145q8FL36k21hQ5ny8ISQ57R02QfMd5FF",
+      },
+      {
+        label: "PK 2024",
+        to: "/pdf-viewer?file=PK_PPNS_2024.pdf",
+        link: "1ZKkle0Oj3Z8vDJvR8t36UpPR4jp8qyQO",
+      },
+      {
+        label: "PK 2023",
+        to: "/pdf-viewer?file=PK_PPNS_2023.pdf",
+        link: "1XIa0PNwdD5S_i8Lm_sV9ZZty53goqgVN",
+      },
+      {
+        label: "PK 2022",
+        to: "/pdf-viewer?file=PK_PPNS_2022.pdf",
+        link: "1kC8FjZ2WQXyTgH7NaczQwJELH7lw8DqI",
+      },
+      {
+        label: "PK 2021",
+        to: "/pdf-viewer?file=PK_PPNS_2021.pdf",
+        link: "1zgip-XUM8c_vy82Jod88lw_nOYzmT8OP",
+      },
+      {
         label: "PK 2020",
         to: "/pdf-viewer?file=PK_PPNS_2020.pdf",
-        link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+        link: "1gPA3NDPF1hhz5LZffjOVEn7ousJsBR0K",
       },
-      {
-        label: "PK 2019",
-        to: "/pdf-viewer?file=PK_PPNS_2019.pdf",
-        link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
-      },
-      {
-        label: "PK 2018",
-        to: "/pdf-viewer?file=PK_PPNS_2018.pdf",
-        link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
-      },
-      {
-        label: "PK 2017",
-        to: "/pdf-viewer?file=PK_PPNS_2017.pdf",
-        link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
-      },
-      {
-        label: "PK 2016",
-        to: "/pdf-viewer?file=PK_PPNS_2016.pdf",
-        link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
-      },
+      // {
+      //   label: "PK 2019",
+      //   to: "/pdf-viewer?file=PK_PPNS_2019.pdf",
+      //   link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+      // },
+      // {
+      //   label: "PK 2018",
+      //   to: "/pdf-viewer?file=PK_PPNS_2018.pdf",
+      //   link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+      // },
+      // {
+      //   label: "PK 2017",
+      //   to: "/pdf-viewer?file=PK_PPNS_2017.pdf",
+      //   link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+      // },
+      // {
+      //   label: "PK 2016",
+      //   to: "/pdf-viewer?file=PK_PPNS_2016.pdf",
+      //   link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+      // },
     ],
   },
   {

@@ -36,11 +36,17 @@ const PdfViewer = () => {
     "RENAKSI_PPNS_2021.pdf": "1bcYn7nFS-3T2FvxviI-7bflvaGZDEblN",
     "LAKIN_PPNS_2015_2024.pdf": "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
     "PK_PPNS_2016_2025.pdf": "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+
+    //list pk_ppns files
+    "PK_PPNS_2025.pdf": "145q8FL36k21hQ5ny8ISQ57R02QfMd5FF",
+    "PK_PPNS_2024.pdf": "1ZKkle0Oj3Z8vDJvR8t36UpPR4jp8qyQO",
+    "PK_PPNS_2023.pdf": "1XIa0PNwdD5S_i8Lm_sV9ZZty53goqgVN",
+    "PK_PPNS_2022.pdf": "1kC8FjZ2WQXyTgH7NaczQwJELH7lw8DqI",
+    "PK_PPNS_2021.pdf": "1zgip-XUM8c_vy82Jod88lw_nOYzmT8OP",
+    "PK_PPNS_2020.pdf": "1gPA3NDPF1hhz5LZffjOVEn7ousJsBR0K",
+
   }
 
-  console.log("CEK DATA", data[file]); 
-
-  console.l
   return (
     <>
         <div className="min-h-screen bg-gray-100 py-10 px-4 flex items-center justify-center">
