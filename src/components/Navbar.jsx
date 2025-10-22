@@ -77,26 +77,26 @@ const NAV_ITEMS = [
         to: "/pdf-viewer?file=PK_PPNS_2020.pdf",
         link: "1gPA3NDPF1hhz5LZffjOVEn7ousJsBR0K",
       },
-      // {
-      //   label: "PK 2019",
-      //   to: "/pdf-viewer?file=PK_PPNS_2019.pdf",
-      //   link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
-      // },
-      // {
-      //   label: "PK 2018",
-      //   to: "/pdf-viewer?file=PK_PPNS_2018.pdf",
-      //   link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
-      // },
-      // {
-      //   label: "PK 2017",
-      //   to: "/pdf-viewer?file=PK_PPNS_2017.pdf",
-      //   link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
-      // },
-      // {
-      //   label: "PK 2016",
-      //   to: "/pdf-viewer?file=PK_PPNS_2016.pdf",
-      //   link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
-      // },
+      {
+        label: "PK 2019",
+        to: "/pdf-viewer?file=PK_PPNS_2019.pdf",
+        link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+      },
+      {
+        label: "PK 2018",
+        to: "/pdf-viewer?file=PK_PPNS_2018.pdf",
+        link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+      },
+      {
+        label: "PK 2017",
+        to: "/pdf-viewer?file=PK_PPNS_2017.pdf",
+        link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+      },
+      {
+        label: "PK 2016",
+        to: "/pdf-viewer?file=PK_PPNS_2016.pdf",
+        link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+      },
     ],
   },
   {

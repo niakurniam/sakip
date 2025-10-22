@@ -86,7 +86,7 @@ const Hero = () => {
               Selamat Datang di
             </h2>
             <h1 className='text-white text-center font-bold tracking-wide text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl px-4 drop-shadow-2xl leading-tight'>
-              Sistem Akuntabilitas Kinerja Pemerintah
+              Sistem Akuntabilitas Kinerja Instansi Pemerintah
             </h1>
             <span className='text-white text-center font-normal text-xs sm:text-base md:text-xl lg:text-2xl xl:text-3xl px-4'>
               Wujudkan Akuntabilitas, Tingkatkan Mutu Pelayanan Publik
