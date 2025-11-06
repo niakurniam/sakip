@@ -100,7 +100,7 @@ const NAV_ITEMS = [
     ],
   },
   {
-    link: "Perjanjian Kinerja Tahunan",
+    link: "Rencana Kinerja Tahunan",
     path: "/rkt",
     dropdown: [
       {
@@ -161,10 +161,62 @@ const NAV_ITEMS = [
     path: "/lakin",
     dropdown: [
       {
-        label: "LAKIN PPNS 2015-2024",
-        to: "/pdf-viewer?file=LAKIN_PPNS_2015_2024.pdf",
+        label: "LAKIN PPNS 2024",
+        to: "/pdf-viewer?file=LAKIN_PPNS_2024.pdf",
         link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
       },
+      {
+        label: "LAKIN PPNS 2023",
+        to: "/pdf-viewer?file=LAKIN_PPNS_2023.pdf",
+        link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+      },
+      {
+        label: "LAKIN PPNS 2022",
+        to: "/pdf-viewer?file=LAKIN_PPNS_2022.pdf",
+        link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+      },
+      {
+        label: "LAKIN PPNS 2021",
+        to: "/pdf-viewer?file=LAKIN_PPNS_2021.pdf",
+        link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+      },
+      {
+        label: "LAKIN PPNS 2020",
+        to: "/pdf-viewer?file=LAKIN_PPNS_2020.pdf",
+        link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+      },
+      //newly added items
+      {
+        label: "LAKIN PPNS 2019",
+        to: "/pdf-viewer?file=LAKIN_PPNS_2019.pdf",
+        // link: "1fZfVpygfVKV4QkTRgvKboPHyeIL9k1fL",
+        link: "1fZfVpygfVKV4QkTRgvKboPHyeIL9k1fL",
+      },
+      {
+        label: "LAKIN PPNS 2018",
+        to: "/pdf-viewer?file=LAKIN_PPNS_2018.pdf",
+        link: "1XgeRHtIAMqBm2HwtbxQ2JnEWOI2tFuBX",
+      },
+      {
+        label: "LAKIN PPNS 2017",
+        to: "/pdf-viewer?file=LAKIN_PPNS_2017.pdf",
+        link: "1EGuATxrsTBONkg6pCpl1vSWfD6aDq8RT",
+      },
+      {
+        label: "LAKIN PPNS 2016",
+        to: "/pdf-viewer?file=LAKIN_PPNS_2016.pdf",
+        link: "1c_JZ7MF7RIfMKg_MDOsjdcyuoDWc0GA_",
+      },
+      {
+        label: "LAKIN PPNS 2015",
+        to: "/pdf-viewer?file=LAKIN_PPNS_2015.pdf",
+        link: "1RCW-3lV5Cm7GZxAz7_l3OaW1hVG3JIeB",
+      },
+      // {
+      //   label: "LAKIN PPNS 2014",
+      //   to: "/pdf-viewer?file=LAKIN_PPNS_2014.pdf",
+      //   link: "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+      // },
     ],
   },
   {

@@ -45,6 +45,20 @@ const PdfViewer = () => {
     "PK_PPNS_2021.pdf": "1zgip-XUM8c_vy82Jod88lw_nOYzmT8OP",
     "PK_PPNS_2020.pdf": "1gPA3NDPF1hhz5LZffjOVEn7ousJsBR0K",
 
+    //list lakin files
+    "LAKIN_PPNS_2025.pdf": "1MlUO9DjbIGe1sJq-ih-CQISJ9wA94aDM",
+    "LAKIN_PPNS_2024.pdf": "19pJNV8bls9n7X82FBemI9jgaJPIu4VzI",
+    "LAKIN_PPNS_2023.pdf": "1Okuj7qmXKZ2m_Z59sDve-0oIdUcRbdq4",
+    "LAKIN_PPNS_2022.pdf": "1dDZZ2IVnJnhcew_N1VtV6z1BdgPBjVW8",
+    "LAKIN_PPNS_2021.pdf": "1y0AsFGzmX6duO7HdyaVkwA5jNpUENuB6",
+    "LAKIN_PPNS_2020.pdf": "1lWTKTk2oT8Ura2xomDlfwAMSFgVQ4dBm",
+    "LAKIN_PPNS_2019.pdf": "1fZfVpygfVKV4QkTRgvKboPHyeIL9k1fL",
+    "LAKIN_PPNS_2018.pdf": "1XgeRHtIAMqBm2HwtbxQ2JnEWOI2tFuBX",
+    "LAKIN_PPNS_2017.pdf": "1EGuATxrsTBONkg6pCpl1vSWfD6aDq8RT",
+    "LAKIN_PPNS_2016.pdf": "1c_JZ7MF7RIfMKg_MDOsjdcyuoDWc0GA_",
+    "LAKIN_PPNS_2015.pdf": "1RCW-3lV5Cm7GZxAz7_l3OaW1hVG3JIeB",
+    // "LAKIN_PPNS_2016.pdf": "1lWTKTk2oT8Ura2xomDlfwAMSFgVQ4dBm",
+
   }
 
   return (
